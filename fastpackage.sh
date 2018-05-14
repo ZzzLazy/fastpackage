@@ -3,10 +3,10 @@ cd `dirname $0`
 
 #############required##############
 debug_app_path=''
-#############if should resign############
+#############if need resign############
 certificate_title=""
 mobileprovision_path="./embedded.mobileprovision"
-############if should upload to pgyer#########
+############if need upload to pgyer#########
 pgy_api_key=""
 pgy_user_key=""
 
