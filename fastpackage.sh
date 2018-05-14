@@ -2,7 +2,7 @@ dirname $0
 cd `dirname $0`
 
 #############required##############
-debug_app_path='/Users/mac/Library/Developer/Xcode/DerivedData/package_test-bscbewymvwsjjzcplrlvyickcecc/Build/Products/Debug-iphoneos/package_test.app'
+debug_app_path=''
 #############if should resign############
 certificate_title=""
 mobileprovision_path="./embedded.mobileprovision"
